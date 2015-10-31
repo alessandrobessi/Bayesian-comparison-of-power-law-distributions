@@ -1,3 +1,3 @@
-# Bayesian-comparison-of-power-law-distributions
+# Bayesian comparison of power law distributions
 
-R code 
+More info here: http://www.alessandrobessi.org/2015/10/03/bayesian-comparison-of-powerlaw-distributions-via-metropolis-hastings/
